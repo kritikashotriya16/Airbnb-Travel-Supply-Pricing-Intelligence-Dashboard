@@ -1,0 +1,2 @@
+# Airbnb-Travel-Supply-Pricing-Intelligence-Dashboard
+This project is an end-to-end Power BI dashboard built using real-world Airbnb marketplace data from Amsterdam and Berlin. The objective was to analyze pricing strategies, supply-demand dynamics, host performance, and customer satisfaction trends to generate actionable business insights similar to those used by travel-tech platforms such as Airbnb.
